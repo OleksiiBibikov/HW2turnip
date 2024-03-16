@@ -1,0 +1,14 @@
+C:\Users\destr\Desktop\HW2turnip\bin\Debug\net8.0\HW2turnip.exe
+C:\Users\destr\Desktop\HW2turnip\bin\Debug\net8.0\HW2turnip.deps.json
+C:\Users\destr\Desktop\HW2turnip\bin\Debug\net8.0\HW2turnip.runtimeconfig.json
+C:\Users\destr\Desktop\HW2turnip\bin\Debug\net8.0\HW2turnip.dll
+C:\Users\destr\Desktop\HW2turnip\bin\Debug\net8.0\HW2turnip.pdb
+C:\Users\destr\Desktop\HW2turnip\obj\Debug\net8.0\HW2turnip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\destr\Desktop\HW2turnip\obj\Debug\net8.0\HW2turnip.AssemblyInfoInputs.cache
+C:\Users\destr\Desktop\HW2turnip\obj\Debug\net8.0\HW2turnip.AssemblyInfo.cs
+C:\Users\destr\Desktop\HW2turnip\obj\Debug\net8.0\HW2turnip.csproj.CoreCompileInputs.cache
+C:\Users\destr\Desktop\HW2turnip\obj\Debug\net8.0\HW2turnip.dll
+C:\Users\destr\Desktop\HW2turnip\obj\Debug\net8.0\refint\HW2turnip.dll
+C:\Users\destr\Desktop\HW2turnip\obj\Debug\net8.0\HW2turnip.pdb
+C:\Users\destr\Desktop\HW2turnip\obj\Debug\net8.0\HW2turnip.genruntimeconfig.cache
+C:\Users\destr\Desktop\HW2turnip\obj\Debug\net8.0\ref\HW2turnip.dll
